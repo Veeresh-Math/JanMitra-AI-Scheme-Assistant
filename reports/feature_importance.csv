@@ -1,0 +1,5 @@
+feature,importance
+vulnerability_score,0.42
+income_bracket_code,0.28
+age_bucket_code,0.19
+occupation_encoded,0.11

@@ -1,0 +1,201 @@
+age,gender,annual_income,occupation,state,social_category,eligible_scheme
+73,Female,150000,Self-employed / Small business,Odisha,EWS,Pradhan Mantri Ujjwala Yojana
+63,Female,650000,Farmer / Agricultural worker,Karnataka,SC,Ayushman Bharat – PM-JAY
+40,Male,650000,Self-employed / Small business,Bihar,OBC,PM Matru Vandana Yojana
+69,Female,280000,Student,Uttar Pradesh,OBC,Ayushman Bharat – PM-JAY
+37,Male,150000,Homemaker,Bihar,General,MGNREGA
+55,Female,150000,Homemaker,Odisha,EWS,Atal Pension Yojana
+71,Male,280000,Farmer / Agricultural worker,West Bengal,General,Sukanya Samriddhi Yojana
+42,Male,420000,Daily-wage labourer,West Bengal,General,PM SVANidhi
+45,Male,150000,Self-employed / Small business,Odisha,EWS,PM Awas Yojana (Gramin)
+22,Female,80000,Farmer / Agricultural worker,Uttar Pradesh,SC,PM Mudra Yojana
+73,Male,280000,Homemaker,Bihar,OBC,Pradhan Mantri Ujjwala Yojana
+38,Male,150000,Daily-wage labourer,Maharashtra,SC,PM Fasal Bima Yojana
+35,Male,420000,Self-employed / Small business,West Bengal,ST,Atal Pension Yojana
+64,Male,150000,Salaried (government),Bihar,ST,PM Fasal Bima Yojana
+23,Female,650000,Self-employed / Small business,Rajasthan,ST,PM Awas Yojana (Gramin)
+74,Female,80000,Salaried (private),Bihar,EWS,PM Matru Vandana Yojana
+46,Female,280000,Self-employed / Small business,Rajasthan,General,MGNREGA
+36,Female,650000,Salaried (private),Rajasthan,SC,PM SVANidhi
+50,Male,420000,Daily-wage labourer,West Bengal,OBC,PM Awas Yojana (Gramin)
+18,Female,650000,Self-employed / Small business,Uttar Pradesh,ST,PM Jan Dhan Yojana
+62,Male,650000,Daily-wage labourer,Andhra Pradesh,SC,Kisan Credit Card
+20,Female,420000,Daily-wage labourer,West Bengal,ST,PM Jan Dhan Yojana
+59,Female,650000,Homemaker,Uttar Pradesh,ST,Kisan Credit Card
+38,Female,280000,Farmer / Agricultural worker,Uttar Pradesh,OBC,PM Kisan Samman Nidhi
+52,Male,150000,Daily-wage labourer,Tamil Nadu,EWS,National Scholarship Portal
+58,Female,650000,Daily-wage labourer,Odisha,General,Pradhan Mantri Ujjwala Yojana
+57,Female,280000,Homemaker,Odisha,EWS,PM Matru Vandana Yojana
+20,Female,150000,Homemaker,Odisha,SC,National Scholarship Portal
+42,Male,150000,Self-employed / Small business,Gujarat,EWS,PM Awas Yojana (Gramin)
+62,Female,650000,Homemaker,West Bengal,SC,PM SVANidhi
+55,Female,280000,Self-employed / Small business,Uttar Pradesh,SC,Kisan Credit Card
+62,Male,650000,Salaried (government),Tamil Nadu,General,Kisan Credit Card
+72,Male,420000,Homemaker,Rajasthan,OBC,PM Jan Dhan Yojana
+37,Female,150000,Farmer / Agricultural worker,Andhra Pradesh,General,MGNREGA
+69,Female,650000,Daily-wage labourer,Andhra Pradesh,EWS,MGNREGA
+61,Female,150000,Farmer / Agricultural worker,Rajasthan,SC,Kisan Credit Card
+62,Male,280000,Salaried (private),Bihar,ST,PM Garib Kalyan Anna Yojana
+51,Male,80000,Homemaker,Bihar,ST,Ayushman Bharat – PM-JAY
+38,Male,650000,Daily-wage labourer,Odisha,SC,PM Jan Dhan Yojana
+73,Female,650000,Farmer / Agricultural worker,West Bengal,General,Atal Pension Yojana
+72,Male,150000,Homemaker,Gujarat,OBC,PM SVANidhi
+65,Female,280000,Homemaker,Tamil Nadu,General,Ayushman Bharat – PM-JAY
+40,Male,420000,Salaried (government),Andhra Pradesh,SC,Pradhan Mantri Ujjwala Yojana
+23,Male,280000,Salaried (government),Odisha,SC,Kisan Credit Card
+68,Male,650000,Daily-wage labourer,Karnataka,OBC,Pradhan Mantri Ujjwala Yojana
+70,Female,420000,Salaried (private),Odisha,EWS,Pradhan Mantri Ujjwala Yojana
+30,Female,280000,Salaried (government),Karnataka,EWS,PM Fasal Bima Yojana
+66,Female,80000,Salaried (government),Maharashtra,OBC,Ayushman Bharat – PM-JAY
+40,Female,150000,Salaried (private),Uttar Pradesh,EWS,PM Fasal Bima Yojana
+26,Male,280000,Farmer / Agricultural worker,Rajasthan,ST,National Scholarship Portal
+34,Female,280000,Salaried (government),Uttar Pradesh,EWS,PM Jan Dhan Yojana
+19,Male,80000,Self-employed / Small business,Odisha,EWS,Atal Pension Yojana
+36,Female,650000,Student,Uttar Pradesh,EWS,PM Awas Yojana (Gramin)
+36,Female,150000,Student,Tamil Nadu,ST,PM Jan Dhan Yojana
+73,Male,280000,Salaried (government),Maharashtra,EWS,PM SVANidhi
+24,Male,420000,Farmer / Agricultural worker,Gujarat,ST,PM Mudra Yojana
+71,Female,280000,Homemaker,Maharashtra,OBC,Ayushman Bharat – PM-JAY
+59,Female,150000,Farmer / Agricultural worker,Andhra Pradesh,General,PM Jan Dhan Yojana
+59,Male,280000,Daily-wage labourer,Tamil Nadu,OBC,PM Mudra Yojana
+37,Male,80000,Self-employed / Small business,Uttar Pradesh,General,PM Garib Kalyan Anna Yojana
+26,Male,280000,Farmer / Agricultural worker,Gujarat,OBC,PM Jan Dhan Yojana
+34,Male,280000,Salaried (private),Uttar Pradesh,General,MGNREGA
+44,Male,420000,Self-employed / Small business,West Bengal,General,Ayushman Bharat – PM-JAY
+64,Female,80000,Student,West Bengal,SC,National Scholarship Portal
+19,Female,80000,Self-employed / Small business,Bihar,General,PM Matru Vandana Yojana
+53,Female,280000,Salaried (private),Maharashtra,General,Ayushman Bharat – PM-JAY
+36,Female,420000,Salaried (government),Gujarat,SC,PM Matru Vandana Yojana
+34,Male,280000,Salaried (private),West Bengal,EWS,PM Fasal Bima Yojana
+22,Male,280000,Salaried (private),Bihar,EWS,Atal Pension Yojana
+56,Male,150000,Salaried (government),Tamil Nadu,SC,PM Awas Yojana (Gramin)
+35,Female,150000,Salaried (government),Gujarat,ST,Sukanya Samriddhi Yojana
+70,Male,420000,Salaried (government),Bihar,General,PM Awas Yojana (Gramin)
+71,Male,650000,Salaried (government),Rajasthan,General,PM Jan Dhan Yojana
+24,Female,150000,Salaried (government),Gujarat,SC,Kisan Credit Card
+34,Female,650000,Salaried (private),Odisha,SC,PM SVANidhi
+56,Female,80000,Daily-wage labourer,Bihar,ST,PM SVANidhi
+53,Male,150000,Daily-wage labourer,Uttar Pradesh,EWS,PM Awas Yojana (Gramin)
+57,Male,150000,Farmer / Agricultural worker,Odisha,OBC,MGNREGA
+62,Female,420000,Daily-wage labourer,Rajasthan,EWS,National Scholarship Portal
+21,Female,650000,Student,West Bengal,General,PM Matru Vandana Yojana
+55,Male,150000,Daily-wage labourer,Karnataka,SC,PM Mudra Yojana
+42,Female,150000,Salaried (private),Bihar,ST,PM SVANidhi
+22,Male,420000,Salaried (government),Tamil Nadu,EWS,PM Jan Dhan Yojana
+47,Female,420000,Salaried (government),Bihar,ST,National Scholarship Portal
+29,Female,650000,Homemaker,Karnataka,EWS,Sukanya Samriddhi Yojana
+21,Female,80000,Homemaker,Rajasthan,General,MGNREGA
+41,Male,80000,Homemaker,Rajasthan,OBC,Atal Pension Yojana
+46,Male,280000,Salaried (private),Odisha,ST,PM Jan Dhan Yojana
+26,Female,150000,Student,Gujarat,ST,Kisan Credit Card
+21,Male,650000,Daily-wage labourer,Tamil Nadu,OBC,PM Awas Yojana (Gramin)
+68,Female,150000,Salaried (private),Odisha,ST,PM Fasal Bima Yojana
+41,Female,650000,Farmer / Agricultural worker,Tamil Nadu,ST,MGNREGA
+31,Male,650000,Salaried (government),Tamil Nadu,EWS,PM SVANidhi
+22,Male,650000,Homemaker,Karnataka,EWS,Pradhan Mantri Ujjwala Yojana
+35,Male,150000,Self-employed / Small business,Odisha,OBC,PM SVANidhi
+59,Male,420000,Farmer / Agricultural worker,Tamil Nadu,General,Ayushman Bharat – PM-JAY
+74,Female,150000,Homemaker,Andhra Pradesh,ST,National Scholarship Portal
+36,Male,650000,Student,Karnataka,General,PM Garib Kalyan Anna Yojana
+29,Male,280000,Farmer / Agricultural worker,Rajasthan,OBC,MGNREGA
+35,Female,80000,Salaried (private),Karnataka,OBC,Pradhan Mantri Ujjwala Yojana
+34,Female,650000,Daily-wage labourer,Uttar Pradesh,EWS,PM SVANidhi
+47,Female,280000,Salaried (government),Uttar Pradesh,ST,PM Matru Vandana Yojana
+41,Female,420000,Student,Tamil Nadu,SC,PM Mudra Yojana
+28,Male,650000,Student,Odisha,OBC,Sukanya Samriddhi Yojana
+52,Male,280000,Self-employed / Small business,Rajasthan,ST,Sukanya Samriddhi Yojana
+40,Female,650000,Farmer / Agricultural worker,Karnataka,General,PM Awas Yojana (Gramin)
+34,Female,150000,Self-employed / Small business,Odisha,EWS,PM Awas Yojana (Gramin)
+18,Male,280000,Daily-wage labourer,Karnataka,General,MGNREGA
+32,Male,150000,Homemaker,Karnataka,OBC,MGNREGA
+49,Male,150000,Daily-wage labourer,Andhra Pradesh,OBC,Atal Pension Yojana
+26,Male,280000,Homemaker,Uttar Pradesh,General,Ayushman Bharat – PM-JAY
+32,Male,80000,Self-employed / Small business,Karnataka,OBC,PM Kisan Samman Nidhi
+45,Female,280000,Salaried (government),Andhra Pradesh,ST,PM Mudra Yojana
+41,Female,80000,Daily-wage labourer,Uttar Pradesh,OBC,PM Awas Yojana (Gramin)
+52,Female,650000,Self-employed / Small business,Andhra Pradesh,EWS,PM Kisan Samman Nidhi
+39,Female,650000,Farmer / Agricultural worker,Odisha,ST,PM Kisan Samman Nidhi
+44,Male,280000,Self-employed / Small business,Gujarat,SC,PM Jan Dhan Yojana
+36,Female,650000,Self-employed / Small business,Uttar Pradesh,OBC,Kisan Credit Card
+62,Male,420000,Salaried (private),West Bengal,OBC,Ayushman Bharat – PM-JAY
+29,Male,150000,Daily-wage labourer,Gujarat,EWS,PM Fasal Bima Yojana
+37,Male,150000,Salaried (government),Odisha,EWS,PM Fasal Bima Yojana
+18,Male,80000,Salaried (government),Karnataka,General,PM Matru Vandana Yojana
+38,Male,650000,Salaried (private),Rajasthan,General,PM Awas Yojana (Gramin)
+66,Male,80000,Homemaker,Odisha,General,PM SVANidhi
+62,Male,150000,Student,Andhra Pradesh,EWS,Pradhan Mantri Ujjwala Yojana
+18,Female,150000,Homemaker,Andhra Pradesh,General,PM SVANidhi
+27,Male,650000,Salaried (government),Andhra Pradesh,General,PM Garib Kalyan Anna Yojana
+64,Female,420000,Self-employed / Small business,Andhra Pradesh,SC,Ayushman Bharat – PM-JAY
+49,Female,420000,Salaried (private),Odisha,General,Ayushman Bharat – PM-JAY
+56,Male,650000,Farmer / Agricultural worker,Rajasthan,OBC,Kisan Credit Card
+39,Male,650000,Daily-wage labourer,Bihar,EWS,National Scholarship Portal
+35,Female,80000,Daily-wage labourer,Andhra Pradesh,ST,PM Garib Kalyan Anna Yojana
+65,Female,650000,Daily-wage labourer,Bihar,SC,PM Kisan Samman Nidhi
+63,Female,420000,Self-employed / Small business,Rajasthan,EWS,National Scholarship Portal
+49,Female,650000,Farmer / Agricultural worker,Rajasthan,EWS,PM Matru Vandana Yojana
+44,Male,80000,Salaried (private),Gujarat,OBC,PM SVANidhi
+45,Male,80000,Salaried (private),Uttar Pradesh,General,PM Matru Vandana Yojana
+35,Male,80000,Daily-wage labourer,West Bengal,OBC,PM SVANidhi
+56,Female,80000,Farmer / Agricultural worker,Tamil Nadu,General,PM Matru Vandana Yojana
+66,Male,280000,Farmer / Agricultural worker,West Bengal,General,PM Kisan Samman Nidhi
+46,Female,650000,Farmer / Agricultural worker,Odisha,EWS,PM Matru Vandana Yojana
+35,Male,150000,Salaried (government),Tamil Nadu,General,PM Fasal Bima Yojana
+61,Female,650000,Salaried (government),Rajasthan,SC,PM Awas Yojana (Gramin)
+25,Male,280000,Daily-wage labourer,West Bengal,SC,PM Mudra Yojana
+71,Male,80000,Farmer / Agricultural worker,Maharashtra,SC,PM Fasal Bima Yojana
+48,Female,280000,Student,Uttar Pradesh,EWS,PM Jan Dhan Yojana
+51,Female,420000,Farmer / Agricultural worker,West Bengal,OBC,Ayushman Bharat – PM-JAY
+24,Female,420000,Salaried (private),Uttar Pradesh,ST,PM Mudra Yojana
+53,Female,650000,Salaried (private),Bihar,General,MGNREGA
+35,Female,650000,Daily-wage labourer,Odisha,ST,PM Mudra Yojana
+55,Male,150000,Student,Uttar Pradesh,OBC,PM Mudra Yojana
+26,Female,150000,Farmer / Agricultural worker,Bihar,OBC,PM Fasal Bima Yojana
+26,Male,420000,Homemaker,Andhra Pradesh,EWS,Ayushman Bharat – PM-JAY
+63,Male,80000,Student,Bihar,SC,PM Mudra Yojana
+25,Male,280000,Daily-wage labourer,Odisha,SC,Kisan Credit Card
+68,Male,150000,Salaried (private),Gujarat,OBC,Kisan Credit Card
+52,Male,150000,Homemaker,Andhra Pradesh,EWS,PM Jan Dhan Yojana
+35,Female,80000,Salaried (private),Rajasthan,EWS,PM Fasal Bima Yojana
+22,Female,80000,Salaried (government),Karnataka,General,PM Fasal Bima Yojana
+31,Male,650000,Daily-wage labourer,Bihar,SC,PM Mudra Yojana
+45,Male,280000,Daily-wage labourer,Bihar,OBC,PM Kisan Samman Nidhi
+47,Female,80000,Farmer / Agricultural worker,Uttar Pradesh,ST,Ayushman Bharat – PM-JAY
+21,Female,150000,Farmer / Agricultural worker,Rajasthan,SC,PM SVANidhi
+56,Male,150000,Salaried (government),West Bengal,General,PM SVANidhi
+37,Female,420000,Homemaker,Maharashtra,EWS,Sukanya Samriddhi Yojana
+42,Female,80000,Self-employed / Small business,Tamil Nadu,OBC,PM Jan Dhan Yojana
+45,Female,650000,Student,Bihar,SC,PM SVANidhi
+29,Male,280000,Self-employed / Small business,West Bengal,ST,PM Mudra Yojana
+19,Female,650000,Self-employed / Small business,Maharashtra,General,PM SVANidhi
+60,Male,150000,Daily-wage labourer,Tamil Nadu,General,National Scholarship Portal
+31,Male,650000,Student,Karnataka,SC,National Scholarship Portal
+39,Male,150000,Daily-wage labourer,Uttar Pradesh,ST,MGNREGA
+48,Male,150000,Student,West Bengal,General,Ayushman Bharat – PM-JAY
+40,Male,150000,Salaried (private),Uttar Pradesh,OBC,PM Jan Dhan Yojana
+65,Female,150000,Daily-wage labourer,Tamil Nadu,General,PM Fasal Bima Yojana
+37,Male,150000,Daily-wage labourer,Gujarat,ST,Atal Pension Yojana
+55,Male,420000,Daily-wage labourer,Bihar,EWS,PM Awas Yojana (Gramin)
+72,Male,650000,Homemaker,Andhra Pradesh,EWS,Pradhan Mantri Ujjwala Yojana
+21,Female,420000,Salaried (government),Maharashtra,SC,PM Garib Kalyan Anna Yojana
+32,Female,420000,Daily-wage labourer,Rajasthan,ST,Atal Pension Yojana
+41,Female,80000,Farmer / Agricultural worker,Odisha,General,PM SVANidhi
+42,Female,80000,Farmer / Agricultural worker,Bihar,General,PM Jan Dhan Yojana
+18,Female,80000,Student,Andhra Pradesh,EWS,Ayushman Bharat – PM-JAY
+24,Female,280000,Salaried (private),Odisha,EWS,PM Matru Vandana Yojana
+74,Female,80000,Salaried (government),West Bengal,OBC,Ayushman Bharat – PM-JAY
+48,Male,650000,Homemaker,Odisha,EWS,PM SVANidhi
+29,Male,420000,Student,Karnataka,OBC,PM Mudra Yojana
+59,Female,650000,Farmer / Agricultural worker,Bihar,General,PM Mudra Yojana
+22,Male,80000,Salaried (government),Uttar Pradesh,OBC,Atal Pension Yojana
+61,Male,280000,Salaried (government),Gujarat,OBC,PM Fasal Bima Yojana
+67,Female,280000,Salaried (private),Rajasthan,SC,PM Garib Kalyan Anna Yojana
+59,Male,420000,Salaried (government),Uttar Pradesh,EWS,MGNREGA
+55,Male,650000,Daily-wage labourer,Andhra Pradesh,OBC,PM Mudra Yojana
+29,Female,150000,Salaried (government),Bihar,General,Pradhan Mantri Ujjwala Yojana
+56,Male,650000,Salaried (private),Gujarat,ST,PM Jan Dhan Yojana
+35,Female,80000,Student,Odisha,OBC,Pradhan Mantri Ujjwala Yojana
+19,Female,150000,Salaried (private),Bihar,EWS,MGNREGA
+27,Male,280000,Homemaker,Odisha,SC,PM Kisan Samman Nidhi
+32,Male,420000,Salaried (private),West Bengal,General,PM Kisan Samman Nidhi
+47,Male,420000,Farmer / Agricultural worker,Karnataka,SC,Ayushman Bharat – PM-JAY

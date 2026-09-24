@@ -1,0 +1,23 @@
+{
+  "RandomForest": {
+    "hamming_loss": 0.18,
+    "micro_f1": 0.74,
+    "macro_f1": 0.61
+  },
+  "XGBoost": {
+    "hamming_loss": 0.16,
+    "micro_f1": 0.77,
+    "macro_f1": 0.64
+  },
+  "tfidf_linearsvc": {
+    "micro_f1": 0.76,
+    "macro_f1": 0.71,
+    "per_class": {
+      "eligibility_query": 0.81,
+      "application_process": 0.74,
+      "document_query": 0.69,
+      "benefit_query": 0.72,
+      "scheme_info": 0.65
+    }
+  }
+}
