@@ -12,7 +12,7 @@
 
 > **JanMitra** (Hindi: *People's Friend*) — an end-to-end AI pipeline that closes the **78% welfare-scheme utilisation gap** by matching citizens to eligible government programmes and understanding natural-language queries in six Indian languages.
 
-**Author:** VeereshMath &nbsp;·&nbsp; **Programme:** AICTE | IBM SkillsBuild — Data Analytics with AI Internship &nbsp;·&nbsp; **Project:** BharatCares &nbsp;·&nbsp; **Year:** 2026
+**Author:** VeereshMath &nbsp;·&nbsp; **Programme:** AICTE | IBM SkillsBuild — Data Analytics with AI Internship &nbsp;·&nbsp; Associated with BharatCares &nbsp;·&nbsp; **Year:** 2026
 
 **Internship Association:** AICTE · IBM SkillsBuild · BharatCares
 
