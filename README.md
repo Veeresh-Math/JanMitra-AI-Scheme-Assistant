@@ -8,10 +8,13 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e.svg)](LICENSE)
 [![AICTE](https://img.shields.io/badge/AICTE-IBM%20SkillsBuild-0062FF?logo=ibm&logoColor=white)](https://skillsbuild.org/)
+[![BharatCares](https://img.shields.io/badge/BharatCares-Project-FF6F00?logo=fire&logoColor=white)](https://bharatcares.org)
 
 > **JanMitra** (Hindi: *People's Friend*) — an end-to-end AI pipeline that closes the **78% welfare-scheme utilisation gap** by matching citizens to eligible government programmes and understanding natural-language queries in six Indian languages.
 
 **Author:** VeereshMath &nbsp;·&nbsp; **Programme:** AICTE | IBM SkillsBuild — Data Analytics with AI Internship &nbsp;·&nbsp; **Project:** BharatCares &nbsp;·&nbsp; **Year:** 2026
+
+**Internship Association:** AICTE · IBM SkillsBuild · BharatCares
 
 ---
 
@@ -478,7 +481,7 @@ janmitra-ai-scheme-assistant/
 ## Author & Acknowledgments
 
 **VeereshMath**
-AICTE | IBM SkillsBuild — Data Analytics with AI Internship, 2026
+AICTE | IBM SkillsBuild — Data Analytics with AI Internship (BharatCares Project), 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-veereshmath-181717?logo=github)](https://github.com/veereshmath)
 
@@ -486,7 +489,7 @@ AICTE | IBM SkillsBuild — Data Analytics with AI Internship, 2026
 |---|---|
 | **AICTE** | Programme framework and evaluation |
 | **IBM SkillsBuild** | Mentorship, curriculum, and computing resources |
-| **BharatCares** | Project theme and domain guidance |
+| **BharatCares** | Project theme, domain guidance, and deployment partner |
 | **Kaggle** | Datasets 1 and 2 (CC BY / CC BY-SA) |
 | **Hugging Face** | Dataset 3 and XLM-RoBERTa model weights |
 
