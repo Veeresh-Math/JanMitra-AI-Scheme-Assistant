@@ -12,7 +12,7 @@
 
 > **JanMitra** (Hindi: *People's Friend*) — an end-to-end AI pipeline that closes the **78% welfare-scheme utilisation gap** by matching citizens to eligible government programmes and understanding natural-language queries in six Indian languages.
 
-**Author:** VeereshMath &nbsp;·&nbsp; **Programme:** AICTE | IBM SkillsBuild — Data Analytics & AI Internship &nbsp;·&nbsp; Associated with BharatCares &nbsp;·&nbsp; **Year:** 2026
+**Author:** Veeresh Math &nbsp;·&nbsp; **Programme:** AICTE | IBM SkillsBuild — Data Analytics & AI Internship &nbsp;·&nbsp; Associated with BharatCares &nbsp;·&nbsp; **Year:** 2026
 
 **Internship Association:** AICTE · IBM SkillsBuild · BharatCares
 
@@ -480,8 +480,8 @@ janmitra-ai-scheme-assistant/
 
 ## Author & Acknowledgments
 
-**VeereshMath**
-AICTE | IBM SkillsBuild — Data Analytics with AI Internship (BharatCares Project), 2026
+**Veeresh Math**
+AICTE | IBM SkillsBuild — Data Analytics & AI Internship (BharatCares Project), 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-veereshmath-181717?logo=github)](https://github.com/veereshmath)
 
@@ -504,5 +504,5 @@ The datasets are subject to their own licences (CC BY 4.0 and CC BY-SA 4.0).
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <strong>VeereshMath</strong> &nbsp;·&nbsp; AICTE | IBM SkillsBuild | BharatCares &nbsp;·&nbsp; 2026</sub>
+  <sub>Built with ❤️ by <strong>Veeresh Math</strong> &nbsp;·&nbsp; AICTE | IBM SkillsBuild | BharatCares &nbsp;·&nbsp; 2026</sub>
 </div>
